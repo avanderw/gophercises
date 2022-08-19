@@ -2,4 +2,4 @@
 
 Location to store solutions from gophercises.
 
-1. ./quiz (flags, csv, channels)
+1. [quiz](quiz) (flags, csv, channels)
